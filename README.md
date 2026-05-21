@@ -1,5 +1,7 @@
 # 7028 Binary Battalion — Team Handbook
 
+[![Build Handbook](https://github.com/YOUR_ORG/7028-handbook/actions/workflows/handbook-build.yml/badge.svg)](https://github.com/YOUR_ORG/7028-handbook/actions)
+
 This repo contains the source files and build pipeline for the official FRC Team 7028 Binary Battalion team handbook. The handbook is written in Markdown, styled with a LaTeX template, and automatically compiled into a PDF when changes are merged.
 
 
@@ -136,6 +138,13 @@ sudo dpkg -i pandoc-3.1.9-1-amd64.deb
 brew install pandoc
 brew install --cask mactex
 pip3 install pyyaml
+
+# Windows
+# 1. Install MiKTeX from https://miktex.org/download (includes xelatex)
+# 2. Install Pandoc from https://github.com/jgm/pandoc/releases (download the .msi)
+# 3. Install Python from https://python.org if not already installed
+# 4. Run: pip install pyyaml
+# 5. Use Git Bash (installed with Git for Windows) to run the build script
 ```
 
 ```bash
