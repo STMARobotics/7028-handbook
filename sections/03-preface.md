@@ -1,3 +1,4 @@
+\pagenumbering{arabic}
 # Preface
 
 In 2018, we took the plunge into the world of FIRST Robotics with the expectation
