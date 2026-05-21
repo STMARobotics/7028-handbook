@@ -16,7 +16,7 @@ The handbook is built from Markdown files in `sections/`, one file per section. 
 
 GitHub Actions runs this build automatically:
 - **On a pull request:** a preview PDF is generated and attached as a downloadable artifact so you can review it before merging.
-- **On merge to `main`:** the final `handbook.pdf` is rebuilt and committed to the repo.
+- **On merge to `main`:** the final `handbook.pdf` is rebuilt and published to the github-latest release.
 
 
 ## Repo structure

@@ -38,15 +38,18 @@ jobs:
           path: handbook.pdf
           retention-days: 30
 
-      - name: Commit rebuilt handbook.pdf to main
+      - name: Publish rebuilt handbook.pdf to release
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          git config user.name "Handbook Bot"
-          git config user.email "handbook-bot@7028robotics.com"
-          git add -f handbook.pdf
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: rebuild handbook PDF [skip ci]"
-            git push
+          TAG="handbook-latest"
+          TITLE="Handbook (Latest)"
+          NOTES="Latest version of the handbook."
+
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" handbook.pdf --clobber
+            gh release edit "$TAG" --title "$TITLE" --notes "$NOTES"
           else
-            echo "No handbook.pdf changes to commit."
+            gh release create "$TAG" handbook.pdf --title "$TITLE" --notes "$NOTES"
           fi
