@@ -260,6 +260,13 @@ sudo dpkg -i pandoc-3.1.9-1-amd64.deb
 brew install pandoc
 brew install --cask mactex
 pip3 install pyyaml
+
+# Windows
+# 1. Install MiKTeX from https://miktex.org/download (includes xelatex)
+# 2. Install Pandoc from https://github.com/jgm/pandoc/releases (download the .msi)
+# 3. Install Python from https://python.org if not already installed
+# 4. Run: pip install pyyaml
+# 5. Use Git Bash (installed with Git for Windows) to run the build script
 ```
 
 Build:
