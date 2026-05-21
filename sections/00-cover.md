@@ -1,3 +1,4 @@
+\pagenumbering{roman}
 \thispagestyle{empty}
 \begin{center}
 
@@ -35,8 +36,8 @@
   \parbox{1.8in}{%
     \centering
     \vspace{4pt}
-    {\large\bfseries 2nd EDITION}\\[4pt]
-    {\large\bfseries 2025}
+    {\large\bfseries 3rd EDITION}\\[4pt]
+    {\large\bfseries 2026}
     \vspace{4pt}
   }%
 }
