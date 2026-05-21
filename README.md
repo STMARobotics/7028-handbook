@@ -28,6 +28,7 @@ config/
 fonts/                  Lora font files
 build/
   build.sh              Build script
+.github/workflows/
   handbook-build.yml    GitHub Actions workflow
 handbook.pdf            Latest published handbook (auto-generated, never edit by hand)
 CONTRIBUTING.md         Full guide on how to edit the handbook
