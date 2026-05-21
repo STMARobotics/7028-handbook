@@ -1,0 +1,44 @@
+name: Build Handbook PDF
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc 3.1.9
+        run: |
+          wget -q https://github.com/jgm/pandoc/releases/download/3.1.9/pandoc-3.1.9-1-amd64.deb
+          sudo dpkg -i pandoc-3.1.9-1-amd64.deb
+
+      - name: Install XeLaTeX
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y texlive-xetex texlive-latex-extra texlive-fonts-extra python3-yaml
+
+      - name: Build PDF
+        run: bash build/build.sh
+
+      - name: Upload PR preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: handbook-preview
+          path: handbook.pdf
+          retention-days: 30
+
+      - name: Commit PDF to main
+        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+        run: |
+          git config user.name "Handbook Bot"
+          git config user.email "handbook-bot@7028.team"
+          git add handbook.pdf
+          git diff --staged --quiet || git commit -m "chore: rebuild handbook PDF [skip ci]"
+          git push

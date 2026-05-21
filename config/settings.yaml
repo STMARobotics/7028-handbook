@@ -1,0 +1,63 @@
+# ============================================================
+# 7028 Binary Battalion Handbook — Build Configuration
+# ============================================================
+
+# Document metadata
+title: "Team Handbook"
+author: "Binary Battalion 7028"
+date: "2025"
+edition: "3rd Edition"  # Update each edition
+
+# Pandoc PDF settings
+pdf-engine: xelatex
+
+# Template
+template: config/template.tex
+
+# Section order — EDIT THIS to add/reorder sections
+# Paths are relative to repo root
+sections:
+  - sections/00-cover.md
+  - sections/01-dedication.md
+  - sections/02-toc.md          # Auto-generated, placeholder
+  - sections/03-preface.md
+  - sections/04-is-7028-right.md
+  - sections/part1-divider.md
+  - sections/05-what-is-first.md
+  - sections/06-your-first-year.md
+  - sections/07-mission-values.md
+  - sections/08-policies.md
+  - sections/part2-divider.md
+  - sections/09-platoons.md
+  - sections/10-facts.md
+  - sections/11-flat-hierarchy.md
+  - sections/12-mentorship.md
+  - sections/13-expectations.md
+  - sections/part3-divider.md
+  - sections/14-decision-making.md
+  - sections/15-black-white-thinking.md
+  - sections/16-design-strategy.md
+  - sections/part4-divider.md
+  - sections/17-history.md
+  - sections/part5-divider.md
+  - sections/18-epilogue.md
+  - sections/19-glossary.md
+
+# Typography
+geometry: "top=1in, bottom=1in, left=1in, right=1in"
+fontsize: 12pt
+linestretch: 1.15
+papersize: letter
+
+# Table of contents
+toc: true
+toc-depth: 2
+
+# Numbering — set false to match original (no section numbers)
+numbersections: false
+
+# Colors (referenced in template)
+variables:
+  blue: "2E4DA6"
+  gold: "F5C400"
+  callout-bg: "F5F0DC"

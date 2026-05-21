@@ -1,0 +1,5 @@
+# What is FIRST Robotics?
+
+Founded in 1989 by inventor Dean Kamen, FIRST® (For Inspiration and Recognition of Science and Technology) is a global nonprofit organization that prepares young people for the future through a suite of inclusive, team-based robotics programs for ages 4-18 (PreK-12). FIRST's programs are suitable for schools or structured afterschool activities and receive support from a vast network of volunteers, educators, and sponsor/donors, including over 200 Fortune 500 companies.
+
+STMA offers all levels of FIRST programming. 7028 is a First Robotics Competition (FRC) team, the highest and most prestigious level of the organization. FRC teams design, build, and program 125 pound robots in just six weeks to compete with other teams from around the world. No, it's not *Battlebots*, but we like to think that FRC is even more strategic and exciting than combat robotics. FRC robots compete on a volleyball sized field to score the most points by completing various tasks. Teams play each match in an "alliance" of three teams working together to win the match. The game completely changes every year.
