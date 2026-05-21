@@ -1,13 +1,13 @@
 # 7028 Binary Battalion — Team Handbook
 
-[![Build Handbook](https://github.com/YOUR_ORG/7028-handbook/actions/workflows/handbook-build.yml/badge.svg)](https://github.com/YOUR_ORG/7028-handbook/actions)
+[![Build Handbook](https://github.com/STMARobotics/7028-handbook/actions/workflows/handbook-build.yml/badge.svg)](https://github.com/STMARobotics/7028-handbook/actions)
 
 This repo contains the source files and build pipeline for the official FRC Team 7028 Binary Battalion team handbook. The handbook is written in Markdown, styled with a LaTeX template, and automatically compiled into a PDF when changes are merged.
 
 
 ## Download the handbook
 
-The latest published PDF is always at the root of this repo: **[`handbook.pdf`](./handbook.pdf)**
+The latest published PDF is always published to the [Handbook (Latest)](https://github.com/STMARobotics/7028-handbook/releases/tag/handbook-latest) release in this repo: **[`handbook.pdf`](https://github.com/STMARobotics/7028-handbook/releases/download/handbook-latest/handbook.pdf)**
 
 
 ## How the repo works
