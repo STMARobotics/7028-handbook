@@ -7,15 +7,11 @@
 
 **Build (Platoon)—** The platoon that assembles robots according to designs.
 
-**Build Season—** The part of the competition season that starts at kickoff and ends after Champs.
-
 **Cheddar—** Game pieces that are on the field, free for the taking.
 
 **Chief Delphi—** The premiere FRC online forum.
 
 **Coach—** An employee of STMA school district that leads the team.
-
-**Competition Season—** The season where a new game is introduced and robots are built and competed with, including the Build Season.
 
 **Control Systems (Platoon)—** The platoon that programs and installs the electronic components of the robots.
 
@@ -89,7 +85,7 @@
 
 **Outreach (Platoon)—** The platoon that plans, organizes, and carries out team outreach events. They also create and submit for the Impact Award.
 
-**Papi—** Andy Gasser.
+**Pappy—** Andy Gasser.
 
 **PID—** Proportional, Integral, Derivative. A positional control system that affects the way motors move.
 
@@ -111,7 +107,7 @@
 
 **Superalliance—** 7028's in-house scouting app.
 
-**Week 0—** A scrimmage type event that occurs in the short time between the build season and the competition season.
+**Week 0—** A scrimmage type event that occurs before week 1 regional events.
 
 **Wilson Shakes—** A recurring behavior seen in robots that shake back and forth while aiming. This is not necessarily a problem and is a result of aggressive PID tuning. Named after the 2020 robot, Wilson.
 
