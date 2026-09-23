@@ -27,7 +27,7 @@ We all love robotics. We love being in the shop with our friends. We simply love
 
 ## What do I need to know about the shop?
 
-Our work area consists of five separate rooms (six including the Studio) that are designed for a variety of purposes. There are some amazing benefits to having such a large shop area but also some things to be aware of. Safety glasses are required for all shop areas except the CAD lab and the Studio. For safety reasons, never work alone in any of the shops. Never use equipment that you are not trained on or are unsure about using.
+Our work area consists of five connected labs that are designed for a variety of purposes. There are some amazing benefits to having such a large shop area but also some things to be aware of. Safety glasses are required for all shop areas except the CAD lab and the Studio. For safety reasons, never work alone in any of the shops. Never use equipment that you are not trained on or are unsure about using.
 
 We share these spaces with hundreds of other STMA High School students who use them every day in their technology education classes. The shops do not belong to us; we are guests in the space. Because of this fact, it is important for all members to follow our "Leave no Trace" philosophy, which essentially means clean up after yourself and leave the space the same as you found it.
 
