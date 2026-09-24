@@ -5,7 +5,7 @@ Of course we all like things that are convenient, but we need to be careful abou
 
 Take for example 3d printed parts; incredibly convenient to produce but lack the strength of other building materials like aluminum or polycarbonate. Just because they are convenient doesn't mean that we should never use them. There are plenty of totally valid use cases for 3d printed parts, but they should never be a substitute for a part that *should* have been manufactured from a stronger material. If you are okay with the part breaking, then go ahead and 3d print it.
 
-7028 used to lump battery access and replacement into this same cateogry of convenience. When the student changing the battery would complain about how difficult and time consuming changing the battery was, design students and mentors would reply with something like "Convenience of changing the battery doesn't effect our performance, get used to it". We have learned the hard way that long and convoluted battery changes lead to compounding time loss throughout the season. How many batteries do we change in a season? A five minute battery change time eats an hour of time after just 12 battery changes. 
+7028 used to lump battery access and replacement into this same category of convenience. When the student changing the battery would complain about how difficult and time consuming changing the battery was, design students and mentors would reply with something like "Convenience of changing the battery doesn't affect our performance, get used to it". We have learned the hard way that long and convoluted battery changes lead to compounding time loss throughout the season. How many batteries do we change in a season? A five minute battery change time eats an hour of time after just 12 battery changes. 
 
 ## Prototyping
 For some members, prototyping is the most fun and exciting few weeks of their robotics season. Trying new ideas, seeing mechanisms work for the first time, experiencing unexpected results, and rapidly iterating is truly some of the most exciting work to be done in FRC- and also the most important.
@@ -63,7 +63,7 @@ Secure wire connections are critical. Minimize splices and unions in wire runs b
 
 Give every connection a smart tug check, and re-secure any loose connections. Use zip-ties for clean cable management, taking care not to overtighten them so mechanisms can flex freely without tugging on wires. Always allow for proper strain relief at all connection points — do not pull wires taut, and properly secure any slack or service loops.
 
-## Asthetic Design
+## Aesthetic Design
 7028 takes the visual appearance of our robots seriously. It is very important to us that our robots visually represent the time and effort our members put into them. When sponsors, school administrators, and other FRC teams see our robot, we want them to see a product that impresses and represents our brand well.
 
 The color scheme is as follows:
