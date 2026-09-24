@@ -78,17 +78,21 @@ Yellow and white parts should only ever be in contact with blue parts.
 The rules below are a starting point and may be broken to maintain the spirit of the 7028 theme.
 
 Blue:
+
 * Plates
 * Non-drivetrain tubes
 
 Black:
+
 * Belly/ brain pan
 * Motor plates
 * Gearbox plates
 * Drivetrain tubes
 
 White:
+
 * Gussets
 
 Yellow:
+
 * Select accent parts
