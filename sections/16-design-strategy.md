@@ -105,12 +105,7 @@ Use Command-Based WPILib programming. Follow [Google Java Style Guide](https://g
 
 Offload tasks to smart hardware (coprocessors and motor controllers) to optimize performance. Use closed-loop control for motors and consider motion profiling for position control. Use LEDs to communicate status to drivers, operators, human players, and programmers.
 
-To maintain clean architecture:
-
-* Use WPILib Java Units to increase clarity and eliminate unit errors.
-* Avoid dynamic or on-device configuration in favor of source-controlled configurations.
-* Log data using Telemetry, Epilogue, WPILib DataLog, or CTRE SignalLogger.
-* Use the Elastic dashboard for the drive team.
+Use WPILib Java Units to increase clarity and eliminate unit errors. Avoid dynamic or on-device configuration in favor of source-controlled configurations. Log data using Telemetry, Epilogue, WPILib DataLog, or CTRE SignalLogger, and use the Elastic dashboard for the drive team.
 
 While AI can read and generate poorly structured code, prioritize human readability and maintainability. FRC is an educational environment where writing clean code enables an understanding of software design and team collaboration. Conduct meaningful peer reviews rather than relying on AI to interpret logic. In the pits, turnaround is fast, online AI access and Wi-Fi are unreliable, and quick debugging under pressure requires an immediate understanding and trust of what is on the screen. AI is an extremely valuable tool, but people are ultimately accountable for the code deployed to the robot.
 
