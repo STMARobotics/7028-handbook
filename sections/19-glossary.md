@@ -7,17 +7,11 @@
 
 **Build (Platoon)—** The platoon that assembles robots according to designs.
 
-**Build Season—** The part of the competition season that starts at kickoff and ends when regionals begin.
-
 **Cheddar—** Game pieces that are on the field, free for the taking.
-
-**Cheesy—** FRC team 254, The Cheesy Poofs. Historically the most competitively successful FRC team of all time.
 
 **Chief Delphi—** The premiere FRC online forum.
 
 **Coach—** An employee of STMA school district that leads the team.
-
-**Competition Season—** The season where a new game is introduced and robots are built and competed with, including the Build Season.
 
 **Control Systems (Platoon)—** The platoon that programs and installs the electronic components of the robots.
 
@@ -26,6 +20,8 @@
 **Design (Platoon)—** The platoon that designs robots in 3D CAD software.
 
 **DNP—** "Do Not Pick", a category of robots that have been identified as not to be picked in alliance selection.
+
+**Environment—** Everything around you. It has been established that the environment is dirty. Do your best to keep it clean.
 
 **EPA—** Expected Points Added. Similar to OPR but calculated by Statbotics.
 
@@ -41,9 +37,13 @@
 
 **FRC—** FIRST Robotics Competition - Combining the excitement of sport with the rigors of science and technology. The ultimate Sport for the Mind inspiring High-school students.
 
+**Fresh Cookies—** Parts that just came out of the powder coat oven and are still warm to the touch.
+
 **FTA—** FIRST Technical Advisor - FRC volunteer position that is responsible for ensuring FIRST Robotics Competition events run smoothly, safely, and in accordance with FIRST requirements, and ensuring a high-quality experience for all event participants and teams.
 
 **FTC—** FIRST Tech Challenge - Grades 7-12 are challenged to design, build, program, and operate robots to compete in a head-to-head challenge in an alliance format.
+
+**Gamer Fingers—** Long-reach pliers.
 
 **GCR—** Granite City Regional held in St. Cloud Minnesota.
 
@@ -52,6 +52,8 @@
 **Goober—** A person (usually a team member) whose behavior is out of line with team values and/or policies.
 
 **Impact Award—** The most prestigious award in FIRST, given to one team per regional that honors the team that best represents a model for other teams to emulate and best embodies the mission of FIRST.
+
+**India Spec—** A rare and highly desirable locktite variant only for sale in the country of India. May have special properties.
 
 **IRI—** Indiana Robotics Invitational offseason event.
 
@@ -83,11 +85,11 @@
 
 **Outreach (Platoon)—** The platoon that plans, organizes, and carries out team outreach events. They also create and submit for the Impact Award.
 
+**Pappy—** Andy Gasser.
+
 **PID—** Proportional, Integral, Derivative. A positional control system that affects the way motors move.
 
 **Platoon—** A group of students who share specific team responsibilities.
-
-**Preseason—** The part of the year where resources are dumped into training members, maintenance and competing in offseason events with the previous year's robot, and completing infrastructure projects.
 
 **Regional—** An official FIRST event with 50+ competing teams over three days.
 
@@ -105,7 +107,7 @@
 
 **Superalliance—** 7028's in-house scouting app.
 
-**Week 0—** A scrimmage type event that occurs in the short time between the build season and the competition season.
+**Week 0—** A scrimmage type event that occurs before week 1 regional events.
 
 **Wilson Shakes—** A recurring behavior seen in robots that shake back and forth while aiming. This is not necessarily a problem and is a result of aggressive PID tuning. Named after the 2020 robot, Wilson.
 
