@@ -23,6 +23,7 @@ Our competition robots will be fully designed in CAD in inches to 0.001" toleran
 The archetypes we prefer are those with less moving parts, simpler solutions, and *robust* architecture. Robust doesn't just mean strong and resistant to breaking- it means performing the same way every match, regardless of field conditions, defense, or wear. Every added part is another point of failure, and every mechanism that depends on precise tuning, perfect alignment, or ideal game-piece placement is a liability. Ideally, the robots we make are boring to watch because they never do anything unexpected or off-script- they always do their job. This isn't the case to lower the bar, it's a challenge to design simple while also competing at the highest level.
 
 Our robots will strive for:
+
 * Indescriminant game piece acquisition
 * Large game piece acquisition zones
 * Low center of mass
@@ -46,6 +47,7 @@ Every hole, cut, and bend on our robot will be made with a computer controlled m
 7028 takes the visual appearance of our robots seriously. It is very important to us that our robots visually represent the time and effort our members put into them. When sponsors, school administrators, and other FRC teams see our robot, we want them to see a product that impresses and represents our brand well.
 
 The color scheme is as follows:
+
 * Primary: PSB-10376 "Flat Dumbell Blue"
 * Secondary: PSS-11181 "Super Durable Matte Black"
 * Tertiary: PSB-8038 "Snow Buster"
