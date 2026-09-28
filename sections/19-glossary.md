@@ -85,7 +85,7 @@
 
 **Outreach (Platoon)—** The platoon that plans, organizes, and carries out team outreach events. They also create and submit for the Impact Award.
 
-**Pappy—** Andy Gasser.
+**Pappy—** \raisebox{-0.15\baselineskip}{\includegraphics[height=\baselineskip]{assets/pappy.png}} Andy Gasser.
 
 **PID—** Proportional, Integral, Derivative. A positional control system that affects the way motors move.
 
