@@ -99,6 +99,8 @@
 
 **Sick—** A synonym for "cool". Can also describe a robot that is "ill", meaning that it intakes and outputs from the same end, just like a sick person.
 
+**Should—** A profanity often used as a substitute for "I don't know." If you find yourself responding to a question with this word, replace it with another valid option like, "Yes", "No", "I don't know", or "I will find out and get back to you."
+
 **Slack—** The main communication tool used by 7028.
 
 **Statbotics—** A website that runs statistical information for all FRC teams.
