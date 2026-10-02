@@ -1,5 +1,97 @@
 \clearpage
 
+\yearheading{2026 Rebuilt}
+
+\noindent
+\begin{minipage}[t]{0.48\linewidth}
+\vspace{0pt}
+\includegraphics[width=\linewidth]{assets/2026-atlas.jpg}\\[4pt]
+\textit{Atlas}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\linewidth}
+\vspace{0pt}
+\includegraphics[width=\linewidth]{assets/2026-phalanx.jpg}\\[4pt]
+\textit{Phalanx}
+\end{minipage}
+
+\vspace{12pt}
+
+\noindent
+\begin{minipage}[t]{0.48\linewidth}
+\vspace{0pt}
+\textit{\textbf{Coaches}}\\[2pt]
+\rule{\linewidth}{0.4pt}\\[6pt]
+Ben Wandmacher\\
+Zack Osowski
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\linewidth}
+\vspace{0pt}
+\textit{\textbf{Captains}}\\[2pt]
+\rule{\linewidth}{0.4pt}\\[6pt]
+Tatum Lallak\\
+Will Spaulding\\
+Addi Van Vooren\\
+Alex LaVigne\\
+Mallory Shidla
+\end{minipage}
+
+\vspace{14pt}
+
+\noindent\textit{\textbf{Great Northern Regional (Atlas) \hfill Week 2}}
+\vspace{2pt}
+
+\noindent\begin{tabularx}{\linewidth}{@{} l X r @{}}
+\toprule
+\textit{Qualifications} & 6-3 record & Rank 19/51 \\
+\midrule
+\textit{Playoffs} & 1st pick of alliance \#4 (4593, 7028, 7530) & 2-2 \\
+\midrule
+\textit{Awards} & Engineering Inspiration & \\
+\bottomrule
+\end{tabularx}
+
+\vspace{10pt}
+\noindent\textit{\textbf{Granite City Regional (Phalanx) \hfill Week 6}}
+\vspace{2pt}
+
+\noindent\begin{tabularx}{\linewidth}{@{} l X r @{}}
+\toprule
+\textit{Qualifications} & 7-2 record & Rank 4/51 \\
+\midrule
+\textit{Playoffs} & 1st pick of alliance \#2 (6045, 7028, 2470) & 5-0 \\
+\midrule
+\textit{Awards} & Regional Winners, FIRST Impact Award & \\
+\bottomrule
+\end{tabularx}
+
+\vspace{10pt}
+\noindent\textit{\textbf{Curie Division (Phalanx) \hfill World Championship}}
+\vspace{2pt}
+
+\noindent\begin{tabularx}{\linewidth}{@{} l X r @{}}
+\toprule
+\textit{Qualifications} & 9-1 record & Rank 6/74 \\
+\midrule
+\textit{Playoffs} & \#5 Alliance captain (7028, 5193, 3197, 2992) & 3-2 \\
+\bottomrule
+\end{tabularx}
+
+\vspace{10pt}
+\noindent\textit{\textbf{Minnesota State High School League Championship (Phalanx)}}
+\vspace{2pt}
+
+\noindent\begin{tabularx}{\linewidth}{@{} l X r @{}}
+\toprule
+\textit{Qualifications} & 7-1 record & Rank 1/36 \\
+\midrule
+\textit{Playoffs} & \#1 Alliance captain (7028, 2052, 2883) & 3-3 \\
+\midrule
+\textit{Awards} & State Second Place & \\
+\bottomrule
+\end{tabularx}
+
+\clearpage
+
 \yearheading{2025 Reefscape}
 
 \noindent
